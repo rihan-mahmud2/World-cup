@@ -182,6 +182,10 @@ body {
   border: 1px solid rgba(255, 255, 255, 0.1);
 }
 
+.footer-first-side h1 {
+  margin-left: 300px;
+}
+
 .footer-social-icons {
   margin: 30px 0;
 }
